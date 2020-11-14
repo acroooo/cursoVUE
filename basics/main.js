@@ -1,4 +1,5 @@
 //VUE BASICS
+//practicas subidas al remoto
 //Esto lo puedo usar gracias al cdn en este ejemplo
 const app = Vue.createApp({
     //recibe un objeto
